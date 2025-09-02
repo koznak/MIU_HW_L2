@@ -1,1 +1,1 @@
-# MIU_HW_L2
+# Assignments for Lessons 1 and 2
