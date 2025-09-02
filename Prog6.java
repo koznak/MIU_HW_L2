@@ -35,7 +35,9 @@ public class Prog6 {
             flag=sc.next().charAt(0);
         }
         while (flag=='y');
+        sc.close();
         System.out.println("Goodbye! Thanks for using the Electricity Bill Generator.");
 
     }
 }
+
