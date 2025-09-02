@@ -26,7 +26,6 @@ public class Prog6 {
 
             };
 
-
             System.out.println("=== Electricity Bill === ");
             System.out.printf("User Type: %s\n",customerType);
             System.out.printf("Units: %d\n",unit);
@@ -40,4 +39,5 @@ public class Prog6 {
 
     }
 }
+
 
